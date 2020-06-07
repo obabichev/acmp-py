@@ -1,5 +1,5 @@
 def lines():
-    with open('INPUT.TXT', "r") as f:
+    with open('../INPUT.TXT', "r") as f:
         return f.readlines()
 
 
